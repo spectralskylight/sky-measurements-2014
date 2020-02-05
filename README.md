@@ -3,26 +3,26 @@
 
 This repository is the data from the follow work:
 
-ACM TOG 33(6) - Proceedings of ACM SIGGRAPH ASIA (**2014**)
-**A Framework for the Experimental Comparison of Solar and Skydome Illumination**
-[Joseph T. Kider Jr.](http://www.josephkider.com/), [Daniel T. Knowlton](http://www.danknowlton.com/), [Jeremy Newlin](http://www.jeremynewlin.info/), [Yining Karl Li](https://www.yiningkarlli.com/), and [Donald P. Greenberg](http://www.graphics.cornell.edu/people/director.html),
+ACM TOG 33(6) - Proceedings of ACM SIGGRAPH ASIA (**2014**)<BR>
+**A Framework for the Experimental Comparison of Solar and Skydome Illumination**<BR>
+[Joseph T. Kider Jr.](http://www.josephkider.com/), [Daniel T. Knowlton](http://www.danknowlton.com/), [Jeremy Newlin](http://www.jeremynewlin.info/), [Yining Karl Li](https://www.yiningkarlli.com/), and [Donald P. Greenberg](http://www.graphics.cornell.edu/people/director.html)
 
 
 ![](paper.png)
 
 
 
-#####Abstract
+##### Abstract
 ---
 The illumination and appearance of the solar/skydome is critical for many applications in computer graphics, computer vision, and daylighting studies. Unfortunately, physically accurate measurements of this rapidly changing illumination source are difficult to achieve, but necessary for the development of accurate physically-based sky illumination models and comparison studies of existing simulation models.
 
 To obtain baseline data of this time-dependent anisotropic light source, we design a novel acquisition setup to simultaneously measure the comprehensive illumination properties. Our hardware design simultaneously acquires its spectral, spatial, and temporal information of the skydome. To achieve this goal, we use a custom built spectral radiance measurement scanner to measure the directional spectral radiance, a pyranometer to measure the irradiance of the entire hemisphere, and a camera to capture high-dynamic range imagery of the sky. The combination of these computer-controlled measurement devices provides a fast way to acquire accurate physical measurements of the solar/skydome. We use the results of our measurements to evaluate many of the strengths and weaknesses of several sun-sky simulation models. We also provide a measurement dataset of sky illumination data for various clear sky conditions and an interactive visualization tool for model comparison analysis available online.
 
-#####Data
+##### Data
 ---
 
-All data was captured on the roof of [Rhodes Hall](https://www.fs.cornell.edu/fs/facinfo/fs_facilinfo.cfm?facil_cd=2051) at [Cornell University](https://www.cornell.edu/).
-latitude : 42.443449 
+All data was captured on the roof of [Rhodes Hall](https://www.fs.cornell.edu/fs/facinfo/fs_facilinfo.cfm?facil_cd=2051) at [Cornell University](https://www.cornell.edu/).<BR>
+latitude : 42.443449 <BR>
 longitude : -76.481962
 
 
